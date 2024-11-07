@@ -1,0 +1,9 @@
+App zur Verwaltung von täglichen Aufgaben
+Spiel, das Mathematik-Aufgaben enthält
+Plattform zum Austausch von Coding-Herausforderungen
+Tool zur Überwachung des Gesundheitszustands des PCs
+To-Do-Liste
+Git-Repository einrichten
+Erste Version committen
+Änderungen dokumentieren
+Review-Prozess einführen
